@@ -47,7 +47,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 
-    <!-- Tools & Platforms -->
 
   <h3 align="left">Web Technologies:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
