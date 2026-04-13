@@ -29,6 +29,7 @@ A second-year computer science student at TUD, passionate about coding, learning
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-F9629F.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 ## 🌐 Connect with me:
