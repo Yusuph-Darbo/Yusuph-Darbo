@@ -27,6 +27,7 @@ A second-year computer science student at TUD, passionate about coding, learning
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1B2430.svg?style=for-the-badge&logo=tailwind-css&logoColor=4DD0E1)
 ![Vitest](https://img.shields.io/badge/Vitest-1B2430.svg?style=for-the-badge&logo=vitest&logoColor=B388FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1B2430.svg?style=for-the-badge&logo=fastapi&logoColor=4DD0E1)
+![Pytest](https://img.shields.io/badge/pytest-1B2430.svg?style=for-the-badge&logo=pytest&logoColor=4FC3F7)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B2430.svg?style=for-the-badge&logo=linkedin&logoColor=4FC3F7)](https://www.linkedin.com/in/yusuph-darbo)
