@@ -18,6 +18,7 @@ A second-year computer science student at TUD, passionate about coding, learning
 ![Git](https://img.shields.io/badge/git-1B2430.svg?style=for-the-badge&logo=git&logoColor=FF7043)
 ![Vite](https://img.shields.io/badge/vite-1B2430.svg?style=for-the-badge&logo=vite&logoColor=B388FF)
 ![Docker](https://img.shields.io/badge/docker-1B2430.svg?style=for-the-badge&logo=docker&logoColor=4FC3F7)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1B2430.svg?style=for-the-badge\&logo=githubactions\&logoColor=4FC3F7)
 
 # Libraries/Frameworks: 
 ![ReactJS](https://img.shields.io/badge/react-1B2430.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
