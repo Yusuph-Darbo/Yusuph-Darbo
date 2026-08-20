@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuph</h1>
 
 # 🌟 About Me:
-A second-year computer science student at TUD, passionate about coding, learning, and building fun applications.
+A third-year computer science student at TUD, passionate about coding, learning, and building fun applications.
 
 # Languages: 
 ![Python](https://img.shields.io/badge/python-1B2430.svg?style=for-the-badge&logo=python&logoColor=4FC3F7) 
